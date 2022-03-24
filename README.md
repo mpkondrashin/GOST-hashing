@@ -1,3 +1,3 @@
 # GOST hashing
 
-Implementation of GOST hashing algorithm using python
+Implementation of GOST alike hashing algorithm using python
